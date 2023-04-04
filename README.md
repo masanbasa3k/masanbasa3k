@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 I’m currently learning Machine Learning and Artificial Intelligence
 
 You can ask me whatever you want, if I know the answer, I will tell you, but if I don't, we can find the answer together.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masanbasa3k&show_icons=true&theme=transparent)
+
+### Check Out These Repositories 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masanbasa3k&repo=DestroyTheInvaders_Game_Neat&theme=transparent)](https://github.com/masanbasa3k/DestroyTheInvaders_Game_Neat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masanbasa3k&repo=Machine_Learning&theme=transparent)](https://github.com/masanbasa3k/Machine_Learning)
