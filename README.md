@@ -21,6 +21,19 @@ I’m currently learning Machine Learning and Artificial Intelligence
 You can ask me whatever you want, if I know the answer, I will tell you, but if I don't, we can find the answer together.
 
 
+My Discord Profile
+<div align="left">   
+    <img align='' height="300px" width="auto" src="hornet.gif" />  
+    <img align='' src="https://lanyard.cnrad.dev/api/229160501978988544?bg=291B3E&borderRadius=5px&idleMessage=Probably%20coding"> 
+
+
+![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fmasanbasa3k)
+</div>
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masanbasa3k&show_icons=true&theme=transparent)
 
 ### Check Out These Repositories 
