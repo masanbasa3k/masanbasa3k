@@ -22,8 +22,8 @@ You can ask me whatever you want, if I know the answer, I will tell you, but if 
 
 My mail address : buysal3000@gmail.com
 
+<img src="https://komarev.com/ghpvc/?username=masanbasa3k&color=red&style=for-the-badge"  alt="profile view count"/>
 
-![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fmasanbasa3k)
 </div>
 
 
